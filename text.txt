@@ -1,2 +1,1 @@
 hello text
-new text for rebase demonstration
