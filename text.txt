@@ -1,4 +1,1 @@
-Hello Git 123 Branch
-It's new line
-Add new line. 12312
-ADD new changes for demonstration REBASE!!!
+hello text
